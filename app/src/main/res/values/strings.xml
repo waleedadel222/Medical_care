@@ -1,0 +1,101 @@
+<resources>
+
+    <string name="app_name">Medical _Care</string>
+    <string name="login"> بدأ البحث</string>
+    <string name="about"> عن البرنامج </string>
+    <string name="search">بحث</string>
+
+    <!-- row -->
+    <string name="location">  الموقع  :  </string>
+    <string name="address">  العنوان :  </string>
+    <string name="specialization">  التخصص : </string>
+    <string name="phone"> تليفون : </string>
+    <string name="mobile"> موبيل  :  </string>
+    <string name="fax"> فاكس  :</string>
+
+    <string-array name="locations">
+        <item>الموقع</item>
+        <item>المنصورة</item>
+        <item> القاهرة </item>
+        <item>دمياط</item>
+        <item> دمياط الجديدة </item>
+        <item>طنطا</item>
+        <item>الاسكندرية</item>
+    </string-array>
+
+    <string-array name="doctors_specialization">
+        <item>التخصص</item>
+        <item>الجراحة العامة</item>
+        <item>جراحة القلب والصدر</item>
+        <item>الأمراض الباطنه</item>
+        <item>انف واذن وحنجرة وسمعيات</item>
+        <item>عيون</item>
+        <item>علاج الالام</item>
+        <item>مسالك بولية</item>
+        <item>روماتيزم وتأهيل</item>
+        <item>علاج الأورام</item>
+        <item>أمراض جلدية وتناسلية</item>
+        <item>أمراض صدرية</item>
+        <item>جراحة العظام</item>
+        <item>جراحة التجميل</item>
+        <item>أطباء الأسنان</item>
+        <item>أمراض عصبية</item>
+        <item>أمراض نفسية</item>
+        <item>أطباء الأطفال</item>
+        <item>نساء وتوليد</item>
+        <item>تحاليل الأنسجة</item>
+        <item>أطباء تحاليل</item>
+        <item>أشعة تشخيصية</item>
+        <item>هضمى و حميات</item>
+    </string-array>
+
+    <string-array name="hospital_specialization">
+        <item>التخصص</item>
+        <item>عام</item>
+        <item>الجهاز الهضمى</item>
+        <item>عيون</item>
+        <item>كلى ومسالك بوليه</item>
+        <item>باطنه</item>
+        <item>أورام</item>
+        <item>قسطرة</item>
+        <item>نفسيه</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>البحث  عن :</item>
+        <item>مستشفى </item>
+        <item>صيدلية </item>
+        <item>دكتور</item>
+    </string-array>
+
+    <string name="see"> تم إنجاز هذا العمل برعاية</string>
+    <string name="pre_name"> السيد الاستاذ  الدكتور :</string>
+    <string name="president"> محمد حسن القناوى</string>
+    <string name="pre_job"> رئيس  جامعة المنصورة </string>
+
+    <string name="vice_pre_name"> محمود محمد المليجي </string>
+    <string name="vice_pre_job"> نائب رئيس الجامعة لشئون البيئة وخدمة المجتمع </string>
+
+    <string name="dean_name">  محمد عبد الهادي حسنين </string>
+    <string name="dean_job"> عميد كلية الطب </string>
+
+    <string name="modir_elsndo2_name">محمد منير السعيد </string>
+    <string name="modir_elsndo2_job"> مدير صندوق الرعاية الطبية لأعضاء هيئة التدريس والعاملين</string>
+
+
+
+    <string name="team"> فريق العمل :  </string>
+    <string name="name"> أستاذ: إيهاب رجب الشربيني  </string>
+    <string name="job"> مدير عام المشروعات البيئية  </string>
+    <string name="wasla"> بالتعاون مع فريق وصلة :  </string>
+    <string name="dr"> د/ شاهندة صلاح الدين سرحان </string>
+    <string name="waleed"> م/ وليد عادل الرفاعي </string>
+    <string name="mohamed"> م/محمد عادل العفيفي </string>
+    <string name="mai">م/ مي محمد حجازي </string>
+
+    <string name="title_activity_search">بحث</string>
+    <string name="title_activity_about">عن البرنامج</string>
+    <string name="title_activity_result">النتائج</string>
+
+
+</resources>
